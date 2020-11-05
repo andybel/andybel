@@ -1,8 +1,8 @@
-### Hi there, I'm Andy 👋
+# Hi there, I'm Andy 👋
 
 <img src="andy-emoji.GIF" align="right" />
 
-I'm an iOS Developer based in Munich, Germany 🇩🇪, and originally from the UK 🇬🇧 
+### I'm an iOS Developer based in Munich, Germany 🇩🇪, and originally from the UK 🇬🇧 
 
 - 🌱 I’m currently a freelance senior iOS developer (remote or munich based)
 - 🍕 I'm a co-organiser of the [Munich iOS Developers Meetup group](https://www.meetup.com/The-Munich-iOS-Developers-Meetup)
