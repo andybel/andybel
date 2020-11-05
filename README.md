@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Andy 👋
 
-<!--
-**andybel/andybel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="andy-emoji.GIF" align="right" />
 
-Here are some ideas to get you started:
+I'm an iOS Developer based in Munich, Germany 🇩🇪, and originally from the UK 🇬🇧 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently a freelance senior iOS developer (remote or munich based)
+- 🍕 I'm a co-organiser of the [Munich iOS Developers Meetup group](https://www.meetup.com/The-Munich-iOS-Developers-Meetup)
+- ⛰  I enjoy creating mountain videography for [my channel](https://www.youtube.com/channel/UCmt50IAPXu00bLEjJM8AX9w) 
+- 🎸 I'm an active musician in [Heavy Rotators](https://soundcloud.com/heavyrotators) 
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/andy-bell-ios) 
+- ⚡ Fun fact: Here is a picture of the surface of Titan taken by the Cassini/Huygens probe. Titan was about 1.2 Billion kilmoeters from Earth when this picture was taken! 😵🪐 
+
+<img src="huygens_titan.jpg">
